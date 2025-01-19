@@ -10,6 +10,6 @@ public class simple_method {
         System.out.println("please enter second number");
         int b = method.nextInt();
         int result = new simple_method().addition(a,b);
-        System.out.println("\nThe method output is " + result);
+        System.out.println("\nThe method output addition is " + result);
     }
 }
